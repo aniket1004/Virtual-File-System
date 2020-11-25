@@ -6,8 +6,6 @@
 #include <sys/types.h>
 #include <time.h>
 #include <signal.h>
-//#include <iostream>
-//#include <io.h>
 
 #define MAXINODE 50
 #define MAXFILESIZE 1024
